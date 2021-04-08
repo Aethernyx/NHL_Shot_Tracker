@@ -1,6 +1,6 @@
 # NHL_Shot_Tracker
 
-![image_of_NYR_Shots](/rm_images/Rangers_Shot_Dashboard)
+![image_of_NYR_Shots](/rm_images/Rangers_Shot_Dashboard.png)
 
 This repo was built to gather shot Data through the NHL.com API, and analyze the data using Python and Tableau.
 
