@@ -1970,3 +1970,45 @@
 1968,Shot,Artemi Panarin Wrist Shot saved by Linus Ullmark,Wrist Shot,2021-04-03,Buffalo Sabres,Artemi Panarin,8478550,5,00:00,-78.0,3.0,0,David Quinn
 1969,Shot,Mika Zibanejad Wrist Shot saved by Linus Ullmark,Wrist Shot,2021-04-03,Buffalo Sabres,Mika Zibanejad,8476459,5,00:00,-82.0,4.0,0,David Quinn
 1970,Missed Shot,Kaapo Kakko Wide of Net Linus Ullmark,nan,2021-04-03,Buffalo Sabres,Kaapo Kakko,8481554,5,00:00,-81.0,4.0,0,David Quinn
+1971,Blocked Shot,Chris Kreider shot blocked shot by Brian Dumoulin,nan,2021-04-06,Pittsburgh Penguins,Chris Kreider,8475184,1,00:14,-52.0,9.0,1,David Quinn
+1972,Missed Shot,Pavel Buchnevich Over Net Tristan Jarry,nan,2021-04-06,Pittsburgh Penguins,Pavel Buchnevich,8477402,1,00:42,-70.0,16.0,1,David Quinn
+1973,Goal,"Colin Blackwell (10) Deflected, assists: Artemi Panarin (26), Jacob Trouba (8)",Deflected,2021-04-06,Pittsburgh Penguins,Colin Blackwell,8476278,1,01:35,-74.0,15.0,1,David Quinn
+1974,Shot,Ryan Strome Snap Shot saved by Tristan Jarry,Snap Shot,2021-04-06,Pittsburgh Penguins,Ryan Strome,8476458,1,06:33,-49.0,8.0,1,David Quinn
+1975,Missed Shot,Ryan Lindgren Goalpost Tristan Jarry,nan,2021-04-06,Pittsburgh Penguins,Ryan Lindgren,8479324,1,07:10,-40.0,-30.0,1,David Quinn
+1976,Shot,Pavel Buchnevich Wrist Shot saved by Tristan Jarry,Wrist Shot,2021-04-06,Pittsburgh Penguins,Pavel Buchnevich,8477402,1,07:26,-82.0,9.0,1,David Quinn
+1977,Goal,"Mika Zibanejad (13) Backhand, assists: Pavel Buchnevich (19)",Backhand,2021-04-06,Pittsburgh Penguins,Mika Zibanejad,8476459,1,07:28,-77.0,2.0,1,David Quinn
+1978,Shot,Mika Zibanejad Wrist Shot saved by Tristan Jarry,Wrist Shot,2021-04-06,Pittsburgh Penguins,Mika Zibanejad,8476459,1,09:36,-80.0,12.0,1,David Quinn
+1979,Blocked Shot,Mika Zibanejad shot blocked shot by Colton Sceviour,nan,2021-04-06,Pittsburgh Penguins,Mika Zibanejad,8476459,1,09:47,-55.0,4.0,1,David Quinn
+1980,Goal,"Artemi Panarin (12) Wrist Shot, assists: Adam Fox (30), Chris Kreider (9)",Wrist Shot,2021-04-06,Pittsburgh Penguins,Artemi Panarin,8478550,1,09:58,-65.0,-23.0,1,David Quinn
+1981,Shot,K'Andre Miller Wrist Shot saved by Tristan Jarry,Wrist Shot,2021-04-06,Pittsburgh Penguins,K'Andre Miller,8480817,1,11:21,-37.0,-24.0,1,David Quinn
+1982,Shot,Chris Kreider Wrist Shot saved by Tristan Jarry,Wrist Shot,2021-04-06,Pittsburgh Penguins,Chris Kreider,8475184,1,13:13,-57.0,-22.0,1,David Quinn
+1983,Shot,Filip Chytil Snap Shot saved by Tristan Jarry,Snap Shot,2021-04-06,Pittsburgh Penguins,Filip Chytil,8480078,1,14:05,-46.0,13.0,1,David Quinn
+1984,Shot,Artemi Panarin Slap Shot saved by Tristan Jarry,Slap Shot,2021-04-06,Pittsburgh Penguins,Artemi Panarin,8478550,1,19:33,-45.0,-23.0,1,David Quinn
+1985,Goal,"Ryan Strome (12) Wrist Shot, assists: Artemi Panarin (27), Adam Fox (31)",Wrist Shot,2021-04-06,Pittsburgh Penguins,Ryan Strome,8476458,1,19:42,-57.0,27.0,1,David Quinn
+1986,Blocked Shot,Ryan Lindgren shot blocked shot by Colton Sceviour,nan,2021-04-06,Pittsburgh Penguins,Ryan Lindgren,8479324,2,02:15,51.0,23.0,1,David Quinn
+1987,Shot,Pavel Buchnevich Snap Shot saved by Casey DeSmith,Snap Shot,2021-04-06,Pittsburgh Penguins,Pavel Buchnevich,8477402,2,05:28,71.0,-15.0,1,David Quinn
+1988,Missed Shot,Ryan Strome Wide of Net Casey DeSmith,nan,2021-04-06,Pittsburgh Penguins,Ryan Strome,8476458,2,06:21,59.0,-16.0,1,David Quinn
+1989,Shot,Igor Shesterkin Wrist Shot saved by Casey DeSmith,Wrist Shot,2021-04-06,Pittsburgh Penguins,Igor Shesterkin,8478048,2,07:12,-80.0,7.0,1,David Quinn
+1990,Missed Shot,Mika Zibanejad Wide of Net Casey DeSmith,nan,2021-04-06,Pittsburgh Penguins,Mika Zibanejad,8476459,2,11:16,78.0,-5.0,1,David Quinn
+1991,Shot,Brendan Smith Wrist Shot saved by Casey DeSmith,Wrist Shot,2021-04-06,Pittsburgh Penguins,Brendan Smith,8474090,2,12:12,37.0,-18.0,1,David Quinn
+1992,Shot,Filip Chytil Wrist Shot saved by Casey DeSmith,Wrist Shot,2021-04-06,Pittsburgh Penguins,Filip Chytil,8480078,2,12:18,79.0,6.0,1,David Quinn
+1993,Goal,"Alexis Lafrenière (6) Deflected, assists: Filip Chytil (5), Kaapo Kakko (3)",Deflected,2021-04-06,Pittsburgh Penguins,Alexis Lafrenière,8482109,2,12:20,89.0,-3.0,1,David Quinn
+1994,Blocked Shot,Kevin Rooney shot blocked shot by Marcus Pettersson,nan,2021-04-06,Pittsburgh Penguins,Kevin Rooney,8479291,2,16:26,78.0,1.0,1,David Quinn
+1995,Shot,Pavel Buchnevich Wrist Shot saved by Casey DeSmith,Wrist Shot,2021-04-06,Pittsburgh Penguins,Pavel Buchnevich,8477402,2,17:37,81.0,-8.0,1,David Quinn
+1996,Shot,Pavel Buchnevich Wrist Shot saved by Casey DeSmith,Wrist Shot,2021-04-06,Pittsburgh Penguins,Pavel Buchnevich,8477402,2,17:44,56.0,10.0,1,David Quinn
+1997,Shot,Chris Kreider Slap Shot saved by Casey DeSmith,Slap Shot,2021-04-06,Pittsburgh Penguins,Chris Kreider,8475184,3,00:15,-78.0,-27.0,1,David Quinn
+1998,Missed Shot,Artemi Panarin Goalpost Casey DeSmith,nan,2021-04-06,Pittsburgh Penguins,Artemi Panarin,8478550,3,04:02,-72.0,9.0,1,David Quinn
+1999,Missed Shot,Mika Zibanejad Wide of Net Casey DeSmith,nan,2021-04-06,Pittsburgh Penguins,Mika Zibanejad,8476459,3,04:39,-69.0,1.0,1,David Quinn
+2000,Shot,Mika Zibanejad Tip-In saved by Casey DeSmith,Tip-In,2021-04-06,Pittsburgh Penguins,Mika Zibanejad,8476459,3,04:42,-77.0,1.0,1,David Quinn
+2001,Blocked Shot,Artemi Panarin shot blocked shot by Cody Ceci,nan,2021-04-06,Pittsburgh Penguins,Artemi Panarin,8478550,3,04:54,-73.0,-9.0,1,David Quinn
+2002,Blocked Shot,Mika Zibanejad shot blocked shot by Cody Ceci,nan,2021-04-06,Pittsburgh Penguins,Mika Zibanejad,8476459,3,05:05,-77.0,-3.0,1,David Quinn
+2003,Missed Shot,Chris Kreider Wide of Net Casey DeSmith,nan,2021-04-06,Pittsburgh Penguins,Chris Kreider,8475184,3,05:32,-85.0,8.0,1,David Quinn
+2004,Goal,"Kaapo Kakko (6) Tip-In, assists: Jacob Trouba (9), Colin Blackwell (5)",Tip-In,2021-04-06,Pittsburgh Penguins,Kaapo Kakko,8481554,3,06:10,-78.0,3.0,1,David Quinn
+2005,Shot,Ryan Strome Wrist Shot saved by Casey DeSmith,Wrist Shot,2021-04-06,Pittsburgh Penguins,Ryan Strome,8476458,3,08:41,-51.0,7.0,1,David Quinn
+2006,Goal,"Adam Fox (5) Wrist Shot, assists: Mika Zibanejad (17), Ryan Strome (24)",Wrist Shot,2021-04-06,Pittsburgh Penguins,Adam Fox,8479323,3,10:22,-57.0,3.0,1,David Quinn
+2007,Goal,"Pavel Buchnevich (15) Wrist Shot, assists: Filip Chytil (6), Artemi Panarin (28)",Wrist Shot,2021-04-06,Pittsburgh Penguins,Pavel Buchnevich,8477402,3,10:41,-83.0,7.0,1,David Quinn
+2008,Shot,Phillip Di Giuseppe Wrist Shot saved by Casey DeSmith,Wrist Shot,2021-04-06,Pittsburgh Penguins,Phillip Di Giuseppe,8476858,3,12:07,-73.0,7.0,1,David Quinn
+2009,Missed Shot,Brendan Smith Wide of Net Casey DeSmith,nan,2021-04-06,Pittsburgh Penguins,Brendan Smith,8474090,3,12:24,-85.0,12.0,1,David Quinn
+2010,Blocked Shot,Phillip Di Giuseppe shot blocked shot by Cody Ceci,nan,2021-04-06,Pittsburgh Penguins,Phillip Di Giuseppe,8476858,3,16:10,-63.0,0.0,1,David Quinn
+2011,Blocked Shot,Kaapo Kakko shot blocked shot by Frederick Gaudreau,nan,2021-04-06,Pittsburgh Penguins,Kaapo Kakko,8481554,3,16:36,-70.0,1.0,1,David Quinn
+2012,Missed Shot,Ryan Lindgren Wide of Net Casey DeSmith,nan,2021-04-06,Pittsburgh Penguins,Ryan Lindgren,8479324,3,17:30,-37.0,-30.0,1,David Quinn
